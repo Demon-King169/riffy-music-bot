@@ -1,5 +1,4 @@
 module.exports = {
-    client_token: "MTIxNjMxOTExOTY1ODU4MjEyNg.GHbhEc.B0ebkcHbZFPixBAYItjZB50WImUyzI1SsK0w9Q",
     client_id: "1216319119658582126",
     client_prefix: ".",
     mongodb_url: "mongodb+srv://demon:discord@demon.gcqnpcd.mongodb.net/?retryWrites=true&w=majority", //optional
