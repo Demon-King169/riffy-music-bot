@@ -39,6 +39,8 @@ module.exports = client;
     await load_riffy()
 })()
 
+const client_token = process.env.TOKEN
+
 client.login(client_token).catch((error) => {
     logger("Couldn't login to the bot. Please check the config file.", "error")
     console.log(error)
