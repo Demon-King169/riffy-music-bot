@@ -4,7 +4,7 @@ module.exports = {
     client_prefix: ".",
     mongodb_url: "mongodb+srv://demon:discord@demon.gcqnpcd.mongodb.net/?retryWrites=true&w=majority", //optional
     developers: ["1207510451005427783"],
-    sharding: true,
+    sharding: false,
     database: true,
     nodes: [
         {
